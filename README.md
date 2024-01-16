@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Amy</h1>
-<p>🌱 I’m currently learning web developing</p>
+<p>🌱 I’m currently learning web programming @Durham College in ON, Canada</p>
 <h6>📫 How to reach me: <a href="mailto:amy.ahn.kr@gmail.com">amy.ahn.kr@gmail.com</a></h6>
 
 <!---

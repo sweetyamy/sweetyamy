@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Amy</h1>
-<p>🌱 I’m currently learning web programming @Durham College in ON, Canada</p>
+<p>🌱 I am a second-year computer programming and analysis student at Durham College in Ontario Canada. I am fascinated by the IT world, which is connected worldwide online. </p>
 <h6>📫 How to reach me: <a href="mailto:amy.ahn.kr@gmail.com">amy.ahn.kr@gmail.com</a></h6>
 
 <!---

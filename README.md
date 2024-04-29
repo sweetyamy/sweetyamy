@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Amy</h1>
-<p>🌱 I am a second-year computer programming and analysis student at Durham College in Ontario Canada. I am fascinated by the IT world, which is connected worldwide online. </p>
+<p>🌱 I am a second-year computer programming and analysis student at Durham College in Ontario, Canada. I am fascinated by the IT world, which is connected worldwide online. </p>
 <h6>📫 How to reach me: <a href="mailto:amy.ahn.kr@gmail.com">amy.ahn.kr@gmail.com</a></h6>
 
 <!---
@@ -18,8 +18,7 @@ https://simpleicons.org/
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/c sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/c sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/><br>
   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 

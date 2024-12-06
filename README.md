@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Amy</h1>
 -
 <p>🌱 I am a third-year computer programming and analysis student at Durham College in Ontario, Canada. </p>
-<h6>📫 How to reach me: <a href="mailto:amy.ahn.kr@gmail.com">amy.ahn.kr@gmail.com</a></h6>
+<h6>📫 How to reach me: <a href="mailto:amyahn.024@gmail.com">amyahn.024@gmail.com</a></h6>
 
 <h2>My tech stack 📚 </h2>
 <div align=left> 
